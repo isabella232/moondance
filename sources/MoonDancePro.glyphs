@@ -1,5 +1,9 @@
 {
 .appVersion = "1352";
+DisplayStrings = (
+abcdefghijklmnopqrstuvwxyz,
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+);
 classes = (
 {
 automatic = 1;
@@ -133,45 +137,22 @@ name = ss01;
 fontMaster = (
 {
 alignmentZones = (
-"{899, 10}",
-"{697, 36}",
-"{351, 27}",
-"{-398, -33}"
+"{760, 15}",
+"{640, 10}",
+"{350, 20}",
+"{0, -20}",
+"{-330, -10}"
 );
-ascender = 959;
-capHeight = 809;
+ascender = 640;
+capHeight = 760;
 customParameters = (
-{
-name = typoAscender;
-value = 959;
-},
 {
 name = typoDescender;
 value = -503;
 },
 {
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 959;
-},
-{
 name = hheaDescender;
 value = -503;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 959;
-},
-{
-name = winDescent;
-value = 503;
 },
 {
 name = strikeoutPosition;
@@ -182,15 +163,39 @@ name = strikeoutSize;
 value = 50;
 },
 {
-name = underlinePosition;
-value = -124;
-},
-{
 name = underlineThickness;
 value = 19;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 959;
+},
+{
+name = hheaAscender;
+value = 959;
+},
+{
+name = winAscent;
+value = 959;
+},
+{
+name = winDescent;
+value = 503;
+},
+{
+name = underlinePosition;
+value = -124;
 }
 );
-descender = -536;
+descender = -330;
 guideLines = (
 {
 locked = 1;
@@ -230,7 +235,7 @@ verticalStems = (
 );
 weightValue = 350;
 widthValue = 5;
-xHeight = 492;
+xHeight = 350;
 }
 );
 glyphs = (
@@ -5391,10 +5396,10 @@ unicode = 0134;
 {
 color = 3;
 glyphname = K;
-lastChange = "2021-10-05 21:22:20 +0000";
+lastChange = "2021-10-05 21:47:19 +0000";
 layers = (
 {
-layerId = "22FBF237-8195-4580-A019-F135C28A8A87";
+background = {
 paths = (
 {
 closed = 1;
@@ -5440,7 +5445,90 @@ nodes = (
 "226 736 CURVE",
 "226 738 LINE SMOOTH",
 "226 744 OFFCURVE",
-"212 744 OFFCURVE",
+"217 744 OFFCURVE",
+"209 744 CURVE SMOOTH",
+"193 744 OFFCURVE",
+"162 740 OFFCURVE",
+"155 723 CURVE SMOOTH",
+"151 714 OFFCURVE",
+"150 704 OFFCURVE",
+"148 694 CURVE SMOOTH",
+"130 621 LINE SMOOTH",
+"96 481 OFFCURVE",
+"65 340 OFFCURVE",
+"43 197 CURVE SMOOTH",
+"34 145 OFFCURVE",
+"27 92 OFFCURVE",
+"22 39 CURVE SMOOTH",
+"22 34 OFFCURVE",
+"18 -5 OFFCURVE",
+"18 -10 CURVE SMOOTH",
+"18 -18 OFFCURVE",
+"23 -21 OFFCURVE",
+"30 -21 CURVE SMOOTH",
+"53 -21 OFFCURVE",
+"71 0 OFFCURVE",
+"75 21 CURVE SMOOTH",
+"77 32 OFFCURVE",
+"77 43 OFFCURVE",
+"78 54 CURVE SMOOTH",
+"84 116 LINE SMOOTH",
+"91 187 OFFCURVE",
+"100 257 OFFCURVE",
+"111 328 CURVE",
+"178 211 OFFCURVE",
+"383 -50 OFFCURVE",
+"529 -50 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "22FBF237-8195-4580-A019-F135C28A8A87";
+paths = (
+{
+closed = 1;
+nodes = (
+"540 -50 OFFCURVE",
+"583 -39 OFFCURVE",
+"583 -23 CURVE SMOOTH",
+"583 -19 OFFCURVE",
+"575 -19 OFFCURVE",
+"572 -19 CURVE SMOOTH",
+"557 -19 OFFCURVE",
+"543 -26 OFFCURVE",
+"529 -26 CURVE SMOOTH",
+"467 -26 OFFCURVE",
+"346 105 OFFCURVE",
+"304 150 CURVE SMOOTH",
+"248 209 OFFCURVE",
+"197 276 OFFCURVE",
+"156 346 CURVE",
+"193 386 OFFCURVE",
+"235 422 OFFCURVE",
+"275 459 CURVE SMOOTH",
+"356 534 OFFCURVE",
+"439 608 OFFCURVE",
+"527 675 CURVE SMOOTH",
+"548 692 OFFCURVE",
+"570 706 OFFCURVE",
+"592 722 CURVE SMOOTH",
+"608 734 OFFCURVE",
+"631 757 OFFCURVE",
+"631 779 CURVE SMOOTH",
+"631 784 OFFCURVE",
+"629 788 OFFCURVE",
+"623 788 CURVE SMOOTH",
+"581 788 OFFCURVE",
+"182 407 OFFCURVE",
+"115 349 CURVE",
+"128 426 OFFCURVE",
+"144 503 OFFCURVE",
+"168 578 CURVE SMOOTH",
+"184 628 OFFCURVE",
+"226 728 OFFCURVE",
+"226 738 CURVE SMOOTH",
+"226 744 OFFCURVE",
+"217 744 OFFCURVE",
 "209 744 CURVE SMOOTH",
 "193 744 OFFCURVE",
 "162 740 OFFCURVE",
