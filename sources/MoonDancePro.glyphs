@@ -154,20 +154,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 959;
-},
-{
-name = winDescent;
-value = 503;
-},
-{
 name = hheaAscender;
 value = 959;
 },
 {
 name = hheaDescender;
 value = -503;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 959;
+},
+{
+name = winDescent;
+value = 503;
 },
 {
 name = strikeoutPosition;
@@ -71079,17 +71083,7 @@ note = HT;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "MoonDancePro Regular";
-},
-{
-name = postscriptFontName;
-value = "MoonDancePro Regular";
-}
-);
-interpolationWeight = 350;
+interpolationWeight = 400;
 instanceInterpolations = {
 "22FBF237-8195-4580-A019-F135C28A8A87" = 1;
 };
