@@ -228,7 +228,7 @@ verticalStems = (
 36,
 53
 );
-weightValue = 350;
+weightValue = 400;
 widthValue = 5;
 xHeight = 492;
 }
@@ -71083,17 +71083,7 @@ note = HT;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "MoonDancePro Regular";
-},
-{
-name = postscriptFontName;
-value = "MoonDancePro Regular";
-}
-);
-interpolationWeight = 350;
+interpolationWeight = 400;
 instanceInterpolations = {
 "22FBF237-8195-4580-A019-F135C28A8A87" = 1;
 };
