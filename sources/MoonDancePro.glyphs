@@ -41651,20 +41651,19 @@ note = m;
 {
 color = 0;
 glyphname = nj.ss01;
-lastChange = "2021-09-02 04:57:51 +0000";
+lastChange = "2021-10-11 15:24:24 +0000";
 layers = (
 {
 components = (
 {
-name = n.fina;
+name = n;
 },
 {
 name = j.ss01;
-transform = "{1, 0, 0, 1, 678, 0}";
 }
 );
 layerId = "22FBF237-8195-4580-A019-F135C28A8A87";
-width = 861;
+width = 392;
 }
 );
 },
