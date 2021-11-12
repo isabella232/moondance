@@ -10,14 +10,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "HH/Placeholder HO/Placeholder OOFAF/space GAG\012A/Placeholder A/space B/Placeholder B/space C/Placeholder C/space D/Placeholder D/space E/Placeholder E/space F/Placeholder F/space G/Placeholder G/space H/Placeholder H/space I/Placeholder I/space/space J/Placeholder J/space K/Placeholder K/space L/Placeholder L/space M/Placeholder M/space N/Placeholder N/space O/Placeholder O/space P/Placeholder P/space Q/Placeholder Q/space R/Placeholder R/space S/Placeholder S/space T/Placeholder T/space U/Placeholder U/space V/Placeholder V/space W/Placeholder W/space X/Placeholder X/space Y/Placeholder Y/space Z/Placeholder Z/space HH/Placeholder HO/Placeholder OO\012HTVFDYCGOOMALYAVROYONMJMVWATHBOCDEFGHIJKOLMHNOPOQRSOTUVWOXOYZ\012\012AWARD/space AVATAR/space YOU/space AFAIK/space ALL/space TALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space Peto/space Fosforo/space Pato/space Pito/space Feo/space Tuvo/space TieneTaraTermo/space Tomate/space Yuno/space Yin/space Yale/space You/space Yeyo/space Fio/space Falaz/space Wonder/space Volcan/space Wals/space Well/space/space Winston/space Wulc/space/space Viene/space Variar/space Velocidad/space Kellogs/space Kunst/space Kale/space \012LORD/space PJROJO/space WYN\012V/Acircumflexdotbelow Y/space CH/Adotbelow Y/space/Dcroat/Uhornacute T/space/Ohornacute T/space TH/Uhorn/Ohorn NG/space T/Acircumflexacute Y/space",
 "/nine.lf",
 "!intensityno",
-"nnon.onnon,onononon:nono;nonono/ellipsis ononHOH!HOHOononon¡nonnon?nononnon¿l·l\012/bullet OHOnono*23#45//89890/backslash 8989/space (nonon){nonon}[HOHOHO]/endash/emdash/hyphentwo HOHOH_HOHO/quotedblleft HoNnon/quotedblright HOHO/quoteleft HOOHO/quoteright/space O_H_O/space nno_n_o\012«nnonoon»/guilsinglleft nononoo/guilsinglright",
-".,:;/ellipsis !¡?¿·/bullet *#///backslash ){}[]/endash/emdash/hyphentwo _/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright",
-"/acutecomb.case",
-"+/minus ÷=/notequal ><89/greaterequal/lessequal ±",
-"2+4/minus 5×6÷7=8/notequal 9>9<3/greaterequal/lessequal 4±",
-O,
-"/Ldot",
-"012345678889/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf nonon6696n/six.lf nono/seven.lf m/eight.lf/nine.lf"
+"nnoto.Honest/space non,onononon:/space HHHnono;nonono/ellipsis ononHOH!HOHOononon¡nonnon?nononnon¿l·l\012/bullet OHOnono*23#45//89890/backslash 8989/space (nonon){nonon}[HOHOHO]/endash/emdash/hyphentwo HOHOH_HOHO/quotedblleft HoNnon/quotedblright HOHO/quoteleft HOOHO/quoteright/space O_H_O/space nno_n_o\012«nnonoon»/guilsinglleft nononoo/guilsinglright"
 );
 classes = (
 {
@@ -22545,7 +22538,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2021-11-12 14:30:07 +0000";
+lastChange = "2021-11-12 14:52:48 +0000";
 layers = (
 {
 anchors = (
@@ -37543,7 +37536,7 @@ unicode = 00BE;
 {
 color = 3;
 glyphname = period;
-lastChange = "2021-10-18 07:05:00 +0000";
+lastChange = "2021-11-12 14:52:20 +0000";
 layers = (
 {
 layerId = "22FBF237-8195-4580-A019-F135C28A8A87";
@@ -52647,6 +52640,7 @@ space = -60;
 "@MMK_R_a" = -30;
 "@MMK_R_g" = -30;
 "@MMK_R_i" = -60;
+"@MMK_R_o" = -50;
 "@MMK_R_v" = -40;
 germandbls = -60;
 };
@@ -52777,6 +52771,9 @@ h = 40;
 "@MMK_R_six" = -30;
 "@MMK_R_three" = -40;
 "@MMK_R_two" = -40;
+};
+"@MMK_L_o" = {
+period = -70;
 };
 "@MMK_L_one" = {
 "@MMK_R_two" = 0;
