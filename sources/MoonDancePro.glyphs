@@ -204,11 +204,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 970;
+value = 1128;
 },
 {
 name = winDescent;
-value = 370;
+value = 595;
 },
 {
 name = strikeoutPosition;
